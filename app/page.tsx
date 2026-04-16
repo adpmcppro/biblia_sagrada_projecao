@@ -1001,6 +1001,11 @@ export default function BibleApp() {
         )}
       </main>
 
+      {/* Footer */}
+      <footer className="bg-[#11141D] border-t border-white/5 py-3 text-center text-[#888B94] text-[12px] tracking-wide">
+        2026 &copy; A Midia da Igreja
+      </footer>
+
       <style
         dangerouslySetInnerHTML={{
           __html: `
